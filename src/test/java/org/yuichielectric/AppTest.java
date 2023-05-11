@@ -21,6 +21,6 @@ public class AppTest
     @Test
     public void testAdd() {
         App app = new App();
-        assertTrue(app.add(1, 2) == 4);
+        assertTrue(app.add(1, 2) == 3);
     }
 }
